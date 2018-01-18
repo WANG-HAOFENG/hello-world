@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hi!
+Haofeng here.
+Trying to learn C++ this semester
